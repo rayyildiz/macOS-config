@@ -301,7 +301,6 @@ cask "google-chrome"
 # Developer apps
 cask "ghostty"
 cask "postman"
-cask "scenebuilder"
 cask "visual-studio-code"
 cask "zed"
 
