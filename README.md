@@ -10,7 +10,6 @@ A personal macOS setup repository for quickly bootstrapping a new machine with a
 |------|-------------|
 | `Brewfile` | All Homebrew formulae and casks to install |
 | `install.sh` | Automated setup script that installs Homebrew and runs the Brewfile |
-| `.editorconfig` | Consistent editor settings across tools |
 
 ---
 
@@ -71,11 +70,11 @@ Low-level system libraries required by the tools above (`abseil`, `llvm`, `gcc`,
 | **Security** | 1Password CLI, Keystore Explorer |
 | **AI Tools** | ChatGPT, Claude |
 | **Browsers** | Brave, Google Chrome |
-| **Developer** | Ghostty, Lapce, Postman, VS Code, Zed, SceneBuilder |
-| **Productivity** | Notion, Microsoft Teams, Zoom |
+| **Developer** | Ghostty, Lapce, Postman, VS Code, Zed |
+| **Productivity** | Notion, Microsoft Teams |
 | **Media** | IINA |
 | **Fonts** | Hack Nerd Font |
-| **Utilities** | Block Goose, RAR, Sloth |
+| **Utilities** |  RAR |
 
 ---
 
