@@ -1,0 +1,97 @@
+# Claude AI Ignore File
+# Files and directories that Claude should not read or modify
+
+# Version control
+.git/
+.gitignore
+.gitattributes
+
+# Environment & secrets
+.env
+.env.*
+*.pem
+*.key
+*.cert
+*.p12
+*.pfx
+secrets/
+credentials/
+
+# Dependencies
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Build output
+build/
+dist/
+out/
+target/
+*.o
+*.so
+*.dylib
+*.dll
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.DocumentRevisions-V100
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+.apdisk
+
+# IDE & editor config
+.idea/
+.vscode/
+*.sublime-workspace
+*.code-workspace
+.editorconfig
+
+# Logs & temporary files
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+*.swp
+*.swo
+*~
+
+# Coverage & test artifacts
+htmlcov/
+.coverage
+.coverage.*
+coverage/
+.tox/
+.pytest_cache/
+.mypy_cache/
+.hypothesis/
+
+# OS generated
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Package manager caches
+.npm/
+.yarn/
+.eslintcache
+pip-log.txt
+
+# Compiled / binary
+*.min.js
+*.min.css
+*.pyc
+dump.rdb
