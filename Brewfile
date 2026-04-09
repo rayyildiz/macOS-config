@@ -291,8 +291,9 @@ cask "1password-cli"
 cask "keystore-explorer"
 
 # AI tools
-cask "chatgpt"
+cask "codex"
 cask "claude"
+cask "claude-code"
 
 # Browsers
 cask "brave-browser"
