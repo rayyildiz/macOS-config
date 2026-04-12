@@ -76,8 +76,6 @@ brew "openjdk@21"
 brew "openjdk@25"
 brew "protobuf"
 brew "pycparser"
-# brew "pydantic"
-# brew "pydantic-core"
 brew "python-certifi"
 brew "python@3.11"
 brew "python@3.12"
@@ -294,7 +292,7 @@ cask "keystore-explorer"
 # AI tools
 cask "codex"
 cask "claude"
-cask "claude-code"
+# cask "claude-code"
 
 # Browsers
 cask "brave-browser"
