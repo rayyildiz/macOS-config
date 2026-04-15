@@ -54,9 +54,11 @@ brew "zellij"
 brew "zola"
 
 # Languages, runtimes, and SDKs
+brew "bacon"
 brew "cargo-binstall"
 brew "cargo-hack"
 brew "cargo-udeps"
+brew "cargo-nextest"
 brew "certifi"
 brew "cffi"
 brew "dotnet"
