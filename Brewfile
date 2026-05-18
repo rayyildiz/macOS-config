@@ -306,6 +306,7 @@ cask "ghostty"
 cask "postman"
 cask "visual-studio-code"
 cask "zed"
+cask "warp"
 
 # Business and communication
 cask "microsoft-teams"
