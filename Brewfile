@@ -117,8 +117,6 @@ brew "golang-migrate"
 brew "kafka"
 brew "librdkafka"
 brew "pgvector"
-brew "postgresql@15"
-brew "postgresql@16"
 brew "postgresql@17"
 brew "postgresql@18"
 brew "redis"
@@ -291,8 +289,8 @@ cask "1password-cli"
 cask "keystore-explorer"
 
 # AI tools
-cask "codex"
-cask "claude"
+# cask "codex"
+# cask "claude"
 # cask "claude-code"
 
 # Browsers
@@ -300,14 +298,14 @@ cask "brave-browser"
 cask "google-chrome"
 
 # Developer apps
-cask "ghostty"
+# cask "ghostty"
 cask "postman"
 cask "visual-studio-code"
 cask "zed"
 cask "warp"
 
 # Business and communication
-cask "microsoft-teams"
+# cask "microsoft-teams"
 cask "notion"
 # cask "zoom"
 
