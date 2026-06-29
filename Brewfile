@@ -109,7 +109,6 @@ brew "terrascan"
 brew "tfsec"
 brew "tfupdate"
 brew "trivy"
-brew "go-task"
 
 # Databases, queues, and data tools
 brew "etcd"
