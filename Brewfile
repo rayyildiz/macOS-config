@@ -20,7 +20,6 @@ brew "graphviz"
 brew "gts"
 brew "hf"
 brew "hl"
-brew "hugo"
 brew "just"
 brew "kdoctor"
 brew "makensis"
@@ -34,7 +33,6 @@ brew "pandoc"
 brew "pipdeptree"
 brew "pipx"
 brew "pnpm"
-# brew "poetry"
 brew "pre-commit"
 brew "pyenv"
 brew "pyenv-virtualenv"
@@ -88,7 +86,6 @@ brew "rpds-py"
 brew "ruby"
 brew "rustup"
 brew "wasmer"
-brew "zig"
 
 # Cloud, containers, and infrastructure
 brew "aws-vault"
@@ -96,7 +93,6 @@ brew "awscli"
 brew "checkov"
 # Verify whether this should be a brew formula or cask:
 brew "container"
-brew "dagger"
 brew "detect-secrets"
 brew "docker"
 brew "docker-buildx"
@@ -297,16 +293,13 @@ cask "brave-browser"
 cask "google-chrome"
 
 # Developer apps
-# cask "ghostty"
 cask "postman"
 cask "visual-studio-code"
 cask "zed"
-cask "warp"
 
 # Business and communication
 # cask "microsoft-teams"
 cask "notion"
-# cask "zoom"
 
 # Media
 cask "iina"
